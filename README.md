@@ -43,7 +43,7 @@ This is a full-stack expense tracking web application developed for the SDE Assi
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rahul26901/Expense_tracker.git
 cd Expense_tracker
 ```
 
